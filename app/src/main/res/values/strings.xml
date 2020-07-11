@@ -6,4 +6,6 @@
     <string name="title_search">Search</string>
     <string name="title_dial">Dial</string>
     <string name="randgame_button_text">Spin!</string>
+    <string name="app_label">Gotipocari</string>
+    <string name="search_hint">전화번호검색</string>
 </resources>
